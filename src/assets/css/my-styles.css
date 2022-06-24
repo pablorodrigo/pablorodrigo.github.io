@@ -15,4 +15,39 @@
     font-size: 15px;
 }
 
+/*MODALS*/
+.modal-content {
+    background: #323131;
+}
+
+
+.modal-header {
+    border-bottom: 1px solid #f5593d;
+}
+
+.modal-footer {
+    border-top: 1px solid #f5593d;
+}
+
+.modal-title {
+    color: #FFFFFF;
+    font-weight: 900;
+}
+
+.modal-body {
+    color: #FFFFFF;
+}
+
+.modal-text {
+    text-align: justify;
+}
+
+.modal-text strong {
+    text-decoration-line: underline;
+}
+
+.modal-title {
+    text-transform: uppercase;
+}
+
 
