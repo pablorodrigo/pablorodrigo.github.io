@@ -1,0 +1,18 @@
+.title {
+    margin-bottom: 35px;
+}
+
+.page-header .filter.filter-danger::after {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#cd-vertical-nav .cd-dot {
+    height: 20px;
+    width: 20px;
+}
+
+#cd-vertical-nav .cd-label {
+    font-size: 15px;
+}
+
+
