@@ -50,4 +50,11 @@
     text-transform: uppercase;
 }
 
+lottie-player {
+    margin: 0 auto;
+    width: 50%;
+    align-self: center;
+    height: 400px;
+}
+
 
